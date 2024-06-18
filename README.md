@@ -1,7 +1,5 @@
 # Classifying Images with Vision and Core ML
 
-# Core ML & Create ML Image Classifier
-
 Welcome to the Core ML & Create ML Image Classifier project! This project demonstrates how to build an image classification model using Core ML and Create ML, and how to integrate it into an iOS app with a view controller for selecting images and applying Vision + Core ML processing.
 
 <img width="260" alt="Cat_Classification" src="https://github.com/LinCodeVibe/coreML_iOS_CreateML_ImageClassifier/assets/166785174/74622fed-cf52-45b5-83f1-951d1b683ed6"> <img width="260" alt="Rock_Classification" src="https://github.com/LinCodeVibe/coreML_iOS_CreateML_ImageClassifier/assets/166785174/bd1287c9-39d0-4796-9e5a-a223a56a4882"> <img width="260" alt="car_Classification" src="https://github.com/LinCodeVibe/coreML_iOS_CreateML_ImageClassifier/assets/166785174/b90fc84a-d653-4a13-9875-08169d810a27">
