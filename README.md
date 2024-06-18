@@ -27,10 +27,9 @@ In this project, we will create an image classification model using Core ML and 
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed:
-- macOS 10.14 or later
-- Xcode 10 or later
-- Swift 4.2 or later
-- A dataset of labeled images
+- code project runs on iOS 11.
+- You can also use Vision and Core ML in your own apps on macOS 10.13, iOS 11, or tvOS 11.
+
 
 ## Project Setup
 
@@ -85,7 +84,7 @@ Use the Swift class `MobileNet` Core ML generates from the model.
 
 
 
-## 2. UUpdates the UI with the results of the classification.
+## 2. Updates the UI with the results of the classification.
 The `results` will always be `VNClassificationObservation`s, as specified by the Core ML model in this project.
 
 
@@ -102,5 +101,7 @@ The `results` will always be `VNClassificationObservation`s, as specified by the
 
 
 
-Make sure to replace the placeholder parts, such as the model name `MobileNet`, with your specific model's name if you are using a different one. Additionally, include actual image file references where needed.
+
+
+
 
